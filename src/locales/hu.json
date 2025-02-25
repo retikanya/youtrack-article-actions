@@ -1,0 +1,22 @@
+{
+  "loading": "Betöltés...",
+  "filterItems": "Elemek szűrése",
+  "noOptionsFound": "Elem nem található",
+  "titleInputLabel": "Cím",
+  "titleInputEmpty": "Nem lehet üres!",
+  "projectSelectionLabel": "Projekt",
+  "parentArticleSelectionLabel": "Szülő cikk",
+  "topLevelArticlePlaceholder": "Legfelső szint",
+  "includeDescendentsCheckboxLabel": "Alkönyvtárakkal együtt",
+  "includeDescendentsInfo": "A feltétel csak a 'Másolás' esetében érvényes - a 'Mozgatás' mindig magában foglalja az összes alcikket.",
+  "copyButtonLabel": "Másolás",
+  "moveButtonLabel": "Mozgatás",
+  "errorDraft": "A cikk vázlatok nem másolhatók vagy mozgathatók!",
+  "errorGeneral": "A Widget nem tudta betölteni a cikk adatait!",
+  "errorMissingPermissions": "Hiányoznak az engedélyek!",
+  "errorCopyArticle": "Nem tudta másolni a cikket! Kérjük, próbálja újra...",
+  "warnCopyErrorsOccurred": "A másolás során néhány hiba lépett fel. Kérjük, olvassa el őket, és töltse be újra az oldalt",
+  "errorCopyAttachment": "Nem sikerült másolni a '{{name}}' csatolmányt! Kérjük, próbálja meg manuálisan másolni...",
+  "errorCopyChildArticle": "Nem sikerült másolni a Cikk '{{id}}'! Próbálja újra...",
+  "errorMoveArticle": "A cikk mozgatása sikertelen! Kérjük, próbálja újra..."
+}

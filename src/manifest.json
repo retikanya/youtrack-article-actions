@@ -1,8 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/youtrack-app.json",
-  "name": "youtrack-article-actions",
-  "title": "YouTrack Article Actions",
-  "description": "Copy or move an article in the Knowledge Base",
+  "name": "youtrack-article-actions-hu",
+  "title": "YouTrack Cikk akciók",
+  "description": "Tudásbázis cikkek másolása és mozgatása",
   "changeNotes": "See https://plugins.jetbrains.com/plugin/25371-youtrack-article-actions/release-notes",
   "version": "1.0.3",
   "icon": "logo.svg",
